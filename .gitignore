@@ -1,6 +1,7 @@
 .env
 *.pyc
-__pycache__/
+chatwithdocsbe/__pycache__/
+file_upload_chat/__pycache__/
 
 #IDE
 .vscode/
