@@ -1,0 +1,23 @@
+.env
+*.pyc
+__pycache__/
+
+#IDE
+.vscode/
+.idea/
+
+# Database
+db.sqlite3
+
+# Log files
+*.log
+
+# Cache directories
+__pycache__
+
+# Compiled Python files
+*.pyc
+
+# User-specific files
+.DS_Store
+Thumbs.db
