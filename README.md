@@ -1,6 +1,6 @@
 # Chat With Docs Backend
 
-Chat with docs allows users to chat with PDF documents.
+Chat with docs allows users to chat with PDF documents. The project is designed to provide a seamless chat experience where users can upload PDF files and interact with an AI assistant in the context of uploaded documents.
 
 ### Application Architecture
 
@@ -8,35 +8,49 @@ Chat with docs allows users to chat with PDF documents.
 
 ## Installing
 
-Step by step commands on how to run this project on your computer
+Follow the below steps to set up the project on your local system:
 
-1)- Install Virtualenv
+1) Clone the repository:
+   
+Open your terminal and run the following command:
+
+```
+git clone https://github.com/shrikale32/chatwithdocsbe.git
+```
+
+2) Navigate to the project directory
+
+```
+cd chatwithdocsbe
+```
+
+3)- Install Virtualenv
 
 ```
 pip install virtualenv
 ```
 
-2)- Create Virtualenv
+4)- Create Virtualenv
 
 ```
 virtualenv venv
 ```
 
-3)- Activate virtual env
+5)- Activate virtual env
 
 ```
 Windows - venv/Scripts/activate
 Mac - source venv/bin/activate
 ```
 
-4)- Install requirements
+6)- Install requirements
 
 ```
 pip install -r requirements.txt
 ```
 Note: Above lines are required for first time installation
 
-5)- Execute below commands
+7)- Execute below commands
 
 ```
 python manage.py makemigrations
@@ -44,13 +58,13 @@ python manage.py migrate
 ```
 Note: Above commands should be executed if there is any db level changes
 
-6)- Create superuser for admin access and follow instruction, if not created one
+8)- Create superuser for admin access and follow instruction, if not created one
 
 ```
 python manage.py createsuperuser
 ```
 
-7)- Run the application
+9)- Run the application
 
 ```
 python manage.py runserver
