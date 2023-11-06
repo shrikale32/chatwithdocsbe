@@ -2,6 +2,8 @@
 
 Chat with docs allows users to chat with PDF documents. The project is designed to provide a seamless chat experience where users can upload PDF files and interact with an AI assistant in the context of uploaded documents.
 
+![Demo](https://github.com/shrikale32/chatwithdocs/blob/main/ezgif.com-gif-maker.gif)
+
 ### Application Architecture
 
 <img width="1079" alt="Screen Shot 2023-11-06 at 10 12 52 AM" src="https://github.com/shrikale32/chatwithdocsbe/assets/27811189/b307c16c-42c8-4992-a9fe-356f8aa993d5">
