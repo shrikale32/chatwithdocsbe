@@ -6,7 +6,7 @@ Chat with docs allows users to chat with PDF documents. The project is designed 
 
 Video Demo: 
 
-(https://www.loom.com/share/251815ff194e441b864019ba1c1c5368?sid=31d67d36-d26f-46e1-941f-a0529eb004f0)
+https://www.loom.com/share/251815ff194e441b864019ba1c1c5368?sid=31d67d36-d26f-46e1-941f-a0529eb004f0
 
 ### Application Architecture
 
