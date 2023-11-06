@@ -4,7 +4,9 @@ Chat with docs allows users to chat with PDF documents. The project is designed 
 
 ![Demo](https://github.com/shrikale32/chatwithdocs/blob/main/ezgif.com-gif-maker.gif)
 
-Video Demo: https://www.loom.com/share/3de7912fdf3145998d1a4a62fbe59725?sid=7f9050dd-e069-4150-ad6b-2d87f82e92b4
+Video Demo: 
+
+(https://www.loom.com/share/251815ff194e441b864019ba1c1c5368?sid=31d67d36-d26f-46e1-941f-a0529eb004f0)
 
 ### Application Architecture
 
